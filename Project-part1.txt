@@ -1,0 +1,29 @@
+App name: Vacation Rental Online.
+
+Description: In this project basically a person who wants to travel a particular place he wants to go and doesn't know about a particular way he can stay over there but by the help of this website he can get a beautiful view and very minimum price and by the help of this he can meet people who can help him to see beautiful places and foods.
+
+Type of app: Web application.
+
+Main features: 
+
+-user can register, sign in, sign out.
+-select room for booking.
+-give review about the hospitality.
+-can contact with local guide people.
+-Can select location.
+-Can be a vip membership.
+-selct the price level form the chart.
+-Become a host.
+-Shere their experience with tohers.
+-can buy plane ticket form this website.
+
+How to use: visit https:://cloudbnb.com with your browser.
+
+Written in: html, css, javascript, nodejs.
+Tools/framework used: hyper
+
+reference: i used github and youtube.
+
+Developers: 
+
+Khaled Saifullah(1632664642) [CSE 327 section 8] {Product owner, Scrum Master}
